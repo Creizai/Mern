@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import ReactDOM from "react-dom";
 import "./styles.css";
 
-function Create() {
+function Quote() {
   return (
     <div className="App">
       <h2>props.quote</h2>
