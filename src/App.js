@@ -1,5 +1,6 @@
 import React from "react";
-import logo from "./logo.svg";
+import Quote from "./Quote";
+import Create from "./Create";
 import "./App.css";
 
 function App() {

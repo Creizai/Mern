@@ -10,3 +10,5 @@ function Create() {
     </div>
   );
 }
+
+export default Quote;
