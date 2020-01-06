@@ -18,12 +18,8 @@ function Quote() {
 
   return (
     <div className="App">
-      {quotes.map(item => {
-          return(
-      <h2>item.quote</h2>
-      <h2>item.answer</h2>)
-      })
-      }
+      <h2>{quotes.quote}</h2>
+      <h2>{quotes.answer}</h2>
     </div>
   );
 }
